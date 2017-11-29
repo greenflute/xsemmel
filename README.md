@@ -1,5 +1,5 @@
 # xsemmel
-Cloned form: https://xsemmel.codeplex.com/
+Cloned from: https://xsemmel.codeplex.com/
 
 Origin Developer: https://www.codeplex.com/site/users/view/fschnitz
 
